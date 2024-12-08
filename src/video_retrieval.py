@@ -1,7 +1,7 @@
 import logging
 from pathlib import Path
 
-from pytube import YouTube
+from pytubefix import YouTube
 
 from common import PROJECT_DIR, configs
 

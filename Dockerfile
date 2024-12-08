@@ -15,7 +15,9 @@ RUN apt update && \
 
 WORKDIR /app
 COPY ["requirements.txt", "Makefile", "./"]
+RUN pip install SudachiPy==0.6.8
 RUN pip install -r requirements.txt
+RUN pip install pytubefix
 COPY configs.yaml .
 COPY src/ src/
 

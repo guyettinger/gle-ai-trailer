@@ -1,11 +1,11 @@
 project_dir: 'projects'
-project_name: Natural_History_Museum
-video_path: 'movies/Natural_History_Museum.mp4'
+project_name: PirateHunter
+video_path: 'movies/PirateHunters.mp4'
 plot_filename: 'plot.txt'
 video_retrieval:
-  video_url: 'https://www.youtube.com/watch?v=fdcEKPS6tOQ'
+  video_url: 'https://www.youtube.com/watch?v=8F2DEOb-qoE'
 plot_retrieval:
-  video_id: 
+  video_id: 1930357
 subplot:
   split_char:
 voice:
